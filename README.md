@@ -1,5 +1,7 @@
 # What I did
 
+Watch [Next.js in 100 Seconds](https://www.youtube.com/watch?v=Sklc_fQBmcs)
+
 ```
 yarn config set ignore-engines true
 yarn config set ignore-engines false
@@ -38,6 +40,8 @@ yarn config set ignore-engines false
 4. ISR - Incremental Static Regeneration
 
 # FreeCodeCamp Talk
+
+https://www.youtube.com/watch?v=f1rF9YKm1Ms&t=620s
 
 ## No pre-rendering is a plain React.js application.
 - Initial load:
